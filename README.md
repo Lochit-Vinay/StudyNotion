@@ -140,6 +140,8 @@ MongoDB Atlas (Cloud Database)
 
 Cloudinary (Media)
 
+Deployed link : https://studynotion-frontend-two.vercel.app/
+
 # 📌 Contributions
 
 1. Fork the repo
